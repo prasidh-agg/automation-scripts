@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Names of the resume files
-local_resume="Resume_PrasidhAgg_fs.pdf"
+local_resume="Resume_Prasidh_Agg.pdf"
 github_resume="prasidh-agg-resume.pdf"
 
 # Paths to the resume files
